@@ -1,21 +1,3 @@
-# pharmacies-check
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+# subsidized-medicine-spb
+#### Проект для поиска льготных лекарств в аптеках Санкт-Петербурга.
+ - Проект основаный на данных портала "Здоровье Петербуржца"
