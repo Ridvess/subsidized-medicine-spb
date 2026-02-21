@@ -1,5 +1,5 @@
 const { defineConfig } = require('@vue/cli-service')
 module.exports = defineConfig({
-   publicPath: 'subsidized-medicine-spb'
+   publicPath: process.env.NODE_ENV === "production" ? "subsidized-medicine-spb" : "/",
 })
 
